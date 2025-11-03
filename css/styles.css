@@ -26,6 +26,11 @@
   transform: scale(1.1);
 }
 
+.gallery-link {
+  cursor: url(/Images/Vector.png), pointer;
+
+}
+
 .gallery-image {
   width: 360px;
   height: 200px;
